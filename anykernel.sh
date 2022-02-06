@@ -10,16 +10,16 @@ do.modules=0
 do.systemless=1
 do.cleanup=1
 do.cleanuponabort=0
-device.name1=tiffany
+device.name1=picasso
+device.name2=picasso_48m
 supported.versions= 9 - 12
 '; } # end properties
 
 # shell variables
-block=/dev/block/platform/soc/7824900.sdhci/by-name/boot;
+block=/dev/block/platform/soc/1d84000.ufshc/by-name/boot;
 is_slot_device=0;
 ramdisk_compression=auto;
 patch_vbmeta_flag=auto;
-
 
 ## AnyKernel methods (DO NOT CHANGE)
 # import patching functions/variables - see for reference
