@@ -18,6 +18,7 @@ supported.versions= 9 - 12
 block=/dev/block/platform/soc/7824900.sdhci/by-name/boot;
 is_slot_device=0;
 ramdisk_compression=auto;
+patch_vbmeta_flag=auto;
 
 
 ## AnyKernel methods (DO NOT CHANGE)
