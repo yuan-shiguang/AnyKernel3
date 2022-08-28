@@ -12,7 +12,7 @@ do.cleanup=1
 do.cleanuponabort=0
 device.name1=picasso
 device.name2=picasso_48m
-supported.versions= 9 - 12
+supported.versions= 9 - 13
 '; } # end properties
 
 # shell variables
