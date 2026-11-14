@@ -4,7 +4,7 @@
 ### AnyKernel setup
 # global properties
 properties() { '
-kernel.string=Driftwood Kernel for picasso
+kernel.string=LineageOS Kernel for picasso
 do.devicecheck=1
 do.modules=0
 do.systemless=1
